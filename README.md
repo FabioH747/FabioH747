@@ -15,7 +15,9 @@
 
 ### My Stats
 
-<div> 
-<a href="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" 
-
+<div>
+  <a href="https://github.com/nesantana">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioH&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
