@@ -12,3 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80"/>
 </div>
+
+### My Stats
+
+<div> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFabioH747=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
